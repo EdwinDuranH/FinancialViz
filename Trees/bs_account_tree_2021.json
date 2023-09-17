@@ -1,0 +1,96 @@
+{
+     "TOTAL DEL ACTIVO": {
+          "TOTAL ACTIVOS CORRIENTES": {
+               "CUENTAS Y DOCUMENTOS POR COBRAR CORRIENTES": {
+                    "CUENTAS Y DOCUMENTOS POR COBRAR COMERCIALES CORRIENTES": [
+                         "RELACIONADAS",
+                         "NO RELACIONADAS"
+                    ],
+                    "OTRAS CUENTAS Y DOCUMENTOS POR COBRAR CORRIENTES": [
+                         "A ACCIONISTAS, SOCIOS, PARTICIPES, BENEFICIARIOS U OTROS TITULARES DE DERECHOS REPRESENTATIVOS DE CAPITAL",
+                         "DIVIDENDOS POR COBRAR",
+                         "OTRAS RELACIONADAS",
+                         "OTRAS NO RELACIONADAS"
+                    ]
+               },
+               "OTROS ACTIVOS FINANCIEROS CORRIENTES": {},
+               "PORCIÓN CORRIENTE DE ARRENDAMIENTOS FINANCIEROS POR COBRAR": {},
+               "IMPORTE BRUTO ADEUDADO POR LOS CLIENTES POR EL TRABAJO EJECUTADO EN CONTRATOS DE CONSTRUCCIÓN": {},
+               "ACTIVOS POR IMPUESTOS CORRIENTES": {},
+               "INVENTARIOS": {},
+               "ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA": {},
+               "ACTIVOS BIOLÓGICOS": {
+                    "EN ASOCIADAS": [],
+                    "EN NEGOCIOS CONJUNTOS": []
+               },
+               "GASTOS PAGADOS POR ANTICIPADO (PREPAGADOS)": {}
+          },
+          "TOTAL ACTIVOS NO CORRIENTES": {
+               "PROPIEDADES, PLANTA Y EQUIPO": {
+                    "TERRENOS": [],
+                    "EDIFICIOS Y OTROS INMUEBLES (EXCEPTO TERRENOS)": [],
+                    "NAVES, AERONAVES, BARCAZAS Y SIMILARES": [],
+                    "MAQUINARIA, EQUIPO, INSTALACIONES Y ADECUACIONES": [],
+                    "PLANTAS PRODUCTORAS (AGRICULTURA)": [],
+                    "PROPIEDADES, PLANTA Y EQUIPO POR CONTRATOS DE ARRENDAMIENTO FINANCIERO": [],
+                    "(-) DEPRECIACIÒN ACUMULADA DE PROPIEDADES, PLANTA Y EQUIPO": []
+               },
+               "ACTIVOS INTANGIBLES": {},
+               "PROPIEDADES DE INVERSIÓN": {
+                    "EDIFICIOS": [],
+                    "EN SUBSIDIARIAS": []
+               },
+               "ACTIVOS PARA EXPLORACIÓN, EVALUACIÓN Y EXPLOTACIÓN DE RECURSOS MINERALES": {},
+               "INVERSIONES NO CORRIENTES": {
+                    "CUENTAS Y DOCUMENTOS POR COBRAR COMERCIALES NO CORRIENTES": [
+                         "A ACCIONISTAS. SOCIOS, PARTICIPES. BENEFICIARIOS U OTROS TITULARES DE DERECHOS REPRESENTATIVOS DE CAPITAL",
+                         "A ACCIONISTAS. SOCIOS, PARTÍCIPES. BENEFICIARIOS U OTROS TITULARES DE DERECHOS REPRESENTATIVOS DE CAPITAL"
+                    ],
+                    "OTRAS CUENTAS Y DOCUMENTOS POR COBRAR NO CORRIENTES": [
+                         "DIVIDENDOS POR PAGAR",
+                         "A ACCIONISTAS, SOCIOS, PARTÍCIPES. BENEFICIARIOS U OTROS TITULARES DE DERECHOS REPRESENTATIVOS DE CAPITAL"
+                    ],
+                    "POR CRÉDITOS FISCALES NO UTILIZADOS": []
+               },
+               "CUENTAS Y DOCUMENTOS POR COBRAR NO CORRIENTES": {
+                    "CUENTAS Y DOCUMENTOS POR PAGAR COMERCIALES CORRIENTES": [],
+                    "OTRAS CUENTAS Y DOCUMENTOS POR PAGAR CORRIENTES": []
+               },
+               "OTROS ACTIVOS FINANCIEROS NO CORRIENTES": {},
+               "PORCIÓN NO CORRIENTE DE ARRENDAMIENTOS FINANCIEROS POR COBRAR": {},
+               "ACTIVOS POR IMPUESTOS DIFERIDOS": {
+                    "RELACIONADAS": []
+               },
+               "CUENTAS Y DOCUMENTOS POR PAGAR CORRIENTES": {
+                    "NO RELACIONADAS": [],
+                    "CUENTAS Y DOCUMENTOS POR PAGAR COMERCIALES NO CORRIENTES": []
+               }
+          }
+     },
+     "TOTAL DEL PASIVO": {
+          "TOTAL PASIVOS CORRIENTES": {
+               "OBLIGACIONES CON INSTITUCIONES FINANCIERAS - CORRIENTES": {
+                    "OTRAS CUENTAS Y DOCUMENTOS POR PAGAR NO CORRIENTES": []
+               },
+               "OTROS PASIVOS FINANCIEROS": {},
+               "PASIVOS CORRIENTES POR BENEFICIOS A LOS EMPLEADOS": {},
+               "PROVISIONES CORRIENTES": {},
+               "PASIVOS POR INGRESOS DIFERIDOS": {},
+               "OTROS PASIVOS CORRIENTES": {},
+               "CUENTAS Y DOCUMENTOS POR PAGAR NO CORRIENTES": {}
+          },
+          "TOTAL PASIVOS NO CORRIENTES": {
+               "OBLIGACIONES CON INSTITUCIONES FINANCIERAS - NO CORRIENTES": {},
+               "OTROS PASIVOS FINANCIEROS NO CORRIENTES": {},
+               "PASIVOS NO CORRIENTES POR BENEFICIOS A LOS EMPLEADOS": {},
+               "PROVISIONES NO CORRIENTES": {},
+               "OTROS PASIVOS NO CORRIENTES": {},
+               "SUPERÁVIT DE REVALUACIÓN ACUMULADO": {}
+          }
+     },
+     "TOTAL DEL PATRIMONIO": {
+          "RESERVAS": {},
+          "RESULTADOS ACUMULADOS": {},
+          "OTROS RESULTADOS INTEGRALES ACUMULADOS": {}
+     }
+}

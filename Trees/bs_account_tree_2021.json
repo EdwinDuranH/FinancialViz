@@ -19,32 +19,32 @@
                "ACTIVOS POR IMPUESTOS CORRIENTES": {},
                "INVENTARIOS": {},
                "ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA": {},
-               "ACTIVOS BIOLÓGICOS1": {
-                    "PLANTAS VIVAS Y FRUTOS EN CRECIMIENTO1": [],
-                    "ANIMALES VIVOS1": []
+               "ACTIVOS BIOLÓGICOS": {
+                    "PLANTAS VIVAS Y FRUTOS EN CRECIMIENTO": [],
+                    "ANIMALES VIVOS": []
                },
-               "GASTOS PAGADOS POR ANTICIPADO (PREPAGADOS)": {}
+               "GASTOS PAGADOS POR ANTICIPADO PREPAGADOS": {}
           },
           "TOTAL ACTIVOS NO CORRIENTES": {
-               "PROPIEDADES, PLANTA Y EQUIPO": {
-                    "TERRENOS1": [],
-                    "EDIFICIOS Y OTROS INMUEBLES (EXCEPTO TERRENOS)": [],
-                    "NAVES, AERONAVES, BARCAZAS Y SIMILARES": [],
-                    "MAQUINARIA, EQUIPO, INSTALACIONES Y ADECUACIONES": [],
-                    "PLANTAS PRODUCTORAS (AGRICULTURA)": [],
-                    "PROPIEDADES, PLANTA Y EQUIPO POR CONTRATOS DE ARRENDAMIENTO FINANCIERO": [],
-                    "(-) DEPRECIACIÒN ACUMULADA DE PROPIEDADES, PLANTA Y EQUIPO": []
+               "PROPIEDADES PLANTA Y EQUIPO": {
+                    "TERRENOS": [],
+                    "EDIFICIOS Y OTROS INMUEBLES EXCEPTO TERRENOS": [],
+                    "NAVES AERONAVES BARCAZAS Y SIMILARES": [],
+                    "MAQUINARIA EQUIPO INSTALACIONES Y ADECUACIONES": [],
+                    "PLANTAS PRODUCTORAS AGRICULTURA": [],
+                    "PROPIEDADES PLANTA Y EQUIPO POR CONTRATOS DE ARRENDAMIENTO FINANCIERO": [],
+                    " DEPRECIACIÒN ACUMULADA DE PROPIEDADES PLANTA Y EQUIPO": []
                },
                "ACTIVOS INTANGIBLES": {},
                "PROPIEDADES DE INVERSIÓN": {
-                    "TERRENOS2": [],
+                    "TERRENOS": [],
                     "EDIFICIOS": []
                },
-               "ACTIVOS BIOLÓGICOS2": {
-                    "PLANTAS VIVAS Y FRUTOS EN CRECIMIENTO2": [],
-                    "ANIMALES VIVOS2": []
+               "ACTIVOS BIOLÓGICOS": {
+                    "PLANTAS VIVAS Y FRUTOS EN CRECIMIENTO": [],
+                    "ANIMALES VIVOS": []
                },
-               "ACTIVOS PARA EXPLORACIÓN, EVALUACIÓN Y EXPLOTACIÓN DE RECURSOS MINERALES": {},
+               "ACTIVOS PARA EXPLORACIÓN EVALUACIÓN Y EXPLOTACIÓN DE RECURSOS MINERALES": {},
                "INVERSIONES NO CORRIENTES": {
                     "EN SUBSIDIARIAS": [],
                     "EN ASOCIADAS": [],
@@ -82,14 +82,14 @@
                          "OTRAS NO RELACIONADAS"
                     ]
                },
-               "OBLIGACIONES CON INSTITUCIONES FINANCIERAS - CORRIENTES": {
-                    "RELACIONADAS1": [],
-                    "NO RELACIONADAS1": []
+               "OBLIGACIONES CON INSTITUCIONES FINANCIERAS  CORRIENTES": {
+                    "RELACIONADAS": [],
+                    "NO RELACIONADAS": []
                },
                "OTROS PASIVOS FINANCIEROS": {},
                "PASIVOS CORRIENTES POR BENEFICIOS A LOS EMPLEADOS": {},
                "PROVISIONES CORRIENTES": {},
-               "PASIVOS POR INGRESOS DIFERIDOS1": {},
+               "PASIVOS POR INGRESOS DIFERIDOS": {},
                "OTROS PASIVOS CORRIENTES": {}
           },
           "TOTAL PASIVOS NO CORRIENTES": {
@@ -104,14 +104,14 @@
                          "OTRAS NO RELACIONADAS"
                     ]
                },
-               "OBLIGACIONES CON INSTITUCIONES FINANCIERAS - NO CORRIENTES": {
-                    "RELACIONADAS2": [],
-                    "NO RELACIONADAS2": []
+               "OBLIGACIONES CON INSTITUCIONES FINANCIERAS  NO CORRIENTES": {
+                    "RELACIONADAS": [],
+                    "NO RELACIONADAS": []
                },
                "OTROS PASIVOS FINANCIEROS NO CORRIENTES": {},
                "PASIVOS NO CORRIENTES POR BENEFICIOS A LOS EMPLEADOS": {},
                "PROVISIONES NO CORRIENTES": {},
-               "PASIVOS POR INGRESOS DIFERIDOS2": {},
+               "PASIVOS POR INGRESOS DIFERIDOS": {},
                "OTROS PASIVOS NO CORRIENTES": {}
           }
      },
